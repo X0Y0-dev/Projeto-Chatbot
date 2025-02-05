@@ -17,11 +17,6 @@ Hackaton proporcinado pela FECAP em parceria com a Khipo, uma empresa especialis
 // Editar estrutura depois. Ta servindo mais como placeholder agr
 -Raiz<br>
 |<br>
-|-->Documentos<br>
-  &emsp;|-->Entregas 1<br>
-  &emsp;|-->Entregas 2<br>
-  &emsp;|-->Entregas 3<br>
-  &emsp;|-->Entregas 4<br>
 |-->Imagens<br>
 |-->SRC<br>
   &emsp;|-->Frontend<br>
