@@ -1,0 +1,92 @@
+/* Estilo geral do chatbot */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#chat-container {
+    width: 370px;
+    height: 470px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 1);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+#chat-header {
+    background: #001170;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#close-chat {
+    cursor: pointer;
+    font-size: 18px;
+}
+
+#chat-messages {
+    flex-grow: 1;
+    padding: 10px;
+    overflow-y: auto;
+    max-height: 350px;
+}
+
+#chat-input {
+    width: calc(97% - 20px);
+    padding: 10px;
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 5px;
+}
+
+#send-message {
+    width: 100%;
+    padding: 10px;
+    background: #001170;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#chatbot {
+    position: relative;
+    right: 100px;
+    top: -1.5px;
+    font-size: 20px;
+    /* Ajuste o tamanho conforme necessário */
+}
+
+/* Estilo dos botões de opções rápidas */
+#quick-options {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.option-button {
+    padding: 10px;
+    background: #001170;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+.option-button:hover {
+    background: #004BB5;
+}
