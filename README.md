@@ -14,7 +14,6 @@ Link pro drive com o projeto: https://drive.google.com/drive/folders/1I8Fh8u-Dsq
 Hackaton proporcinado pela FECAP em parceria com a Khipo, uma empresa especialista em consultoria e integração de soluções para grandes empresas. O desafio proposto consistia em criar um aplicativo e/ou site (preferência para aplicativo) de consultoria com integração de inteligência artificial em um período de uma semana (27/01 - 31/01).
 
 ## 🛠 <b>Estrutura de pastas</b>
-// Editar estrutura depois. Ta servindo mais como placeholder agr
 -Raiz<br>
 |<br>
 |-->Imagens<br>
