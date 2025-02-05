@@ -40,3 +40,4 @@ Há 4 pastas que seguem da seguinte forma:
 - VSCode; <br>
 - Figma; <br>
 - Excel; <br>
+- Wamp64. <br>
