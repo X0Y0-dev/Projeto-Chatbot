@@ -1,5 +1,3 @@
-Link para o drive com o projeto: https://drive.google.com/drive/folders/1I8Fh8u-DsqPNB6g3Ouq4YH5_gQOXcdCI?usp=sharing
-
 # FECAP - Fundação Escola de Comércio Álvares Penteado
 
 <p align="center">
@@ -19,24 +17,35 @@ Link para o drive com o projeto: https://drive.google.com/drive/folders/1I8Fh8u-
 ## Descrição:
 Hackaton proporcinado pela FECAP em parceria com a Khipo, uma empresa especialista em consultoria e integração de soluções para grandes empresas. O desafio proposto consistia em criar um aplicativo e/ou site (preferência para aplicativo) de consultoria com integração de inteligência artificial em um período de uma semana (27/01 - 31/01).
 
-## 🛠 <b>Estrutura de pastas</b>
--Raiz<br>
-|<br>
-|-->Imagens<br>
-|-->SRC<br>
-  &emsp;|-->Frontend<br>
-  &emsp;|-->Backend<br>
-|readme.md<br>
+## 📂 **Estrutura do Repositório**
 
-Há 4 pastas que seguem da seguinte forma:
+```
+Projeto1/
+   documents/                                                 # Pasta principal contendo a documentação e entregas acadêmicas
+   ├── Entrega 1/                                             # Primeira entrega do projeto
+   │    ├── Algoritmos e Estrutura de Dados/                  # Implementação de algoritmo de ordenação em uma estrutura de dados definida.
+   │    ├── Desenvolvimento Web FullStack/                    # Estrutura inicial do projeto web.
+   │    ├── Design de Interface Digital/                      # Prototipação da Home no Figma e definição da identidade visual.
+   │    ├── Modelagem_de_Software e Arquitetura de Sistemas/  # Documento de abertura do projeto e requisitos funcionais/não funcionais.
+   │    ├── Programação_Orientada_ao_Objeto/                  # Implementação da classe principal para integração do sistema.
+   ├── Entrega 2/                                             # Segunda entrega do projeto
+   ├── Entrega 3/                                             # Terceira entrega do projeto
+   ├── Entrega 4/                                             # Quarta entrega do projeto
+   images/                                                    # Pasta para armazenar imagens utilizadas no projeto
+   src/                                                       # Código-fonte principal
+   ├── Backend/                                               # Pasta com os códigos de backend
+   │   ├── scripts/                                           # Scripts JavaScript para funcionalidades
+   ├── Frontend/                                              # Pasta com os códigos de frontend
+   │   ├── pages/                                             # Páginas do site/aplicação
+   │   ├── styles/                                            # Arquivos CSS para estilização
+   │   ├── index.html                                         # Página principal do projeto
+   .gitignore                                                 # Arquivo para ignorar arquivos no Git
+   readme.md                                                  # Documentação principal do projeto
+```
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
+Link para o drive com o projeto: https://drive.google.com/drive/folders/1I8Fh8u-DsqPNB6g3Ouq4YH5_gQOXcdCI?usp=sharing
 
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
-
-## 🖥 <b>Software</b>
+## 🖥 <b>Softwares</b>
 - VSCode; <br>
 - Figma; <br>
 - Excel; <br>
