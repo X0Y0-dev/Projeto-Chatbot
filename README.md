@@ -6,8 +6,6 @@
 
 # FinSight
 
-## Integrantes:
-
 <a href="https://www.linkedin.com/in/eriane-dos-santos-oliveira-cfp-pqo-paap-53116292/">`Eriane`</a>
 <a href="http://linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/?trk=opento_sprofile_topcard">`Gustavo H.`</a>
 <a href="https://www.linkedin.com/in/gustavo-roberto-0aa488288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">`Gustavo R.`</a>
