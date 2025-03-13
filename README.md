@@ -20,26 +20,11 @@ Hackaton proporcinado pela FECAP em parceria com a Khipo, uma empresa especialis
 ## 📂 **Estrutura do Repositório**
 
 ```
-Projeto1/
-   documents/                                                 # Pasta principal contendo a documentação e entregas acadêmicas
-   ├── Entrega 1/                                             # Primeira entrega do projeto
-   │    ├── Algoritmos e Estrutura de Dados/                  # Implementação de algoritmo de ordenação em uma estrutura de dados definida.
-   │    ├── Desenvolvimento Web FullStack/                    # Estrutura inicial do projeto web.
-   │    ├── Design de Interface Digital/                      # Prototipação da Home no Figma e definição da identidade visual.
-   │    ├── Modelagem_de_Software e Arquitetura de Sistemas/  # Documento de abertura do projeto e requisitos funcionais/não funcionais.
-   │    ├── Programação_Orientada_ao_Objeto/                  # Implementação da classe principal para integração do sistema.
-   ├── Entrega 2/                                             # Segunda entrega do projeto
-   ├── Entrega 3/                                             # Terceira entrega do projeto
-   ├── Entrega 4/                                             # Quarta entrega do projeto
-   images/                                                    # Pasta para armazenar imagens utilizadas no projeto
-   src/                                                       # Código-fonte principal
-   ├── Backend/                                               # Pasta com os códigos de backend
-   │   ├── scripts/                                           # Scripts JavaScript para funcionalidades
-   ├── Frontend/                                              # Pasta com os códigos de frontend
-   │   ├── pages/                                             # Páginas do site/aplicação
-   │   ├── styles/                                            # Arquivos CSS para estilização
-   │   ├── index.html                                         # Página principal do projeto
-   .gitignore                                                 # Arquivo para ignorar arquivos no Git
+ProjetoChatBot/
+   ├── images/                                                    # Pasta para armazenar imagens utilizadas no projeto
+       src/                                                       # Código-fonte principal
+       ├── Backend/                                               # Pasta com os códigos de backend
+       ├── Frontend/                                              # Pasta com os códigos de frontend
    readme.md                                                  # Documentação principal do projeto
 ```
 
