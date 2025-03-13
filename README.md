@@ -13,7 +13,8 @@
 <a href="https://www.linkedin.com/in/thiffany-morais/">`Thiffany`</a>
 
 ## Descrição
-Hackaton proporcinado pela FECAP em parceria com a Khipo, uma empresa especialista em consultoria e integração de soluções para grandes empresas. O desafio proposto consistia em criar um aplicativo e/ou site (preferência para aplicativo) de consultoria com integração de inteligência artificial em um período de uma semana (27/01 - 31/01).
+
+Participamos de um hackathon promovido pela FECAP em parceria com a Khipo, uma empresa especializada em consultoria e integração de soluções para grandes corporações. O desafio consistia em desenvolver um aplicativo e/ou site (com preferência para aplicativo) que funcionasse como uma calculadora de orçamento para a Khipo, permitindo que seus funcionários realizassem cálculos de forma ágil e eficiente para seus clientes. Durante uma semana (27/01 - 31/01), trabalhamos em equipe para idealizar, projetar e apresentar nossa solução, que incluía um chatbot simples para auxiliar na navegação e no uso da ferramenta.
 
 ## 📂 **Estrutura do Repositório**
 
@@ -27,6 +28,7 @@ ProjetoChatBot/
 ```
 
 ## 🖥 <b>Softwares</b>
+
 - VSCode; <br>
 - Wamp64. <br>
 
