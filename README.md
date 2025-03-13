@@ -12,8 +12,8 @@ Link para o drive com o projeto: https://drive.google.com/drive/folders/1I8Fh8u-
 
 <a href="https://www.linkedin.com/in/eriane-dos-santos-oliveira-cfp-pqo-paap-53116292/">`Eriane`</a>
 <a href="http://linkedin.com/in/gustavo-henrique-da-silva-santos-453822326/?trk=opento_sprofile_topcard">`Gustavo H.`</a>
-<a href="">`Gustavo R.`</a>
-<a href="https://www.linkedin.com/in/lucas-alves-bernardo-093871252/" style="color: green">`Lucas`</a>
+<a href="https://www.linkedin.com/in/gustavo-roberto-0aa488288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">`Gustavo R.`</a>
+<a href="https://www.linkedin.com/in/lucas-alves-bernardo-093871252/">`Lucas`</a>
 <a href="https://www.linkedin.com/in/thiffany-morais/">`Thiffany`</a>
 
 ## Descrição:
