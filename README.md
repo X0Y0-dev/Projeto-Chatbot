@@ -30,8 +30,6 @@ ProjetoChatBot/
 - VSCode; <br>
 - Wamp64. <br>
 
-<hr>
-
 ## Projeto no Google Drive
 
 https://drive.google.com/drive/folders/1I8Fh8u-DsqPNB6g3Ouq4YH5_gQOXcdCI?usp=sharing
